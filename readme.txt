@@ -1,2 +1,2 @@
 Created a new text file for gittest.
-Added a line under the branch "subway".
+This line is added under the branch "subway".
